@@ -2,4 +2,9 @@
 React Viewer Page Project
 
 ---
-## manager - jy.min
+## manager 
+  - jy.min
+## 🛠 Technology used
+  - React
+---
+## 🔄 Update Log
